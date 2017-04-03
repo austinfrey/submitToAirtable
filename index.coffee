@@ -21,6 +21,6 @@ getStdin()
       if err
         console.log err
         return
-      console.log record.getId()
+      console.log JSON.stringify(record: record.getId())
   return
 .catch console.log.bind console
