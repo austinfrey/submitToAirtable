@@ -24,4 +24,3 @@ getStdin()
       console.log record.getId()
   return
 .catch console.log.bind console
-~
