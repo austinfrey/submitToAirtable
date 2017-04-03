@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/aafrey/submitToAirtable#readme",
   "dependencies": {
-    "coffee-script": "^1.12.4"
+    "airtable": "^0.4.5",
+    "coffee-script": "^1.12.4",
+    "get-stdin": "^5.0.1"
   }
 }
